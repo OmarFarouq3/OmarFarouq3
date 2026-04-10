@@ -1,16 +1,23 @@
-## Hi there 👋
+# Omar Farouq
 
-<!--
-**OmarFarouq3/OmarFarouq3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Sharjah with a strong interest in data analysis and machine learning. Currently developing practical skills through hands-on projects and the IBM Data Analytics Professional Certificate.
 
-Here are some ideas to get you started:
+## Skills
+- Python (Pandas, NumPy)
+- SQL
+- Excel and Data Visualization
+- Machine Learning
+- Data Analysis and Preprocessing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Hypertension Classification: Applied machine learning techniques to predict hypertension using clinical and demographic data.
+- CVRP Optimization: Implemented optimization algorithms including Savings and Local Search to improve routing efficiency.
+- Gestational Diabetes Prediction: Developed a predictive model and co-authored an accepted conference paper based on this work.
+
+## Currently Learning
+- Data Visualization and Dashboarding
+- SQL for Data Analysis
+- Advanced Data Analytics Concepts
+
+## Contact
+- LinkedIn: [www.linkedin.com/in/omar-abdulsalam-b8ba22347]
